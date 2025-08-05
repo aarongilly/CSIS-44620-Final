@@ -1,0 +1,14 @@
+ipynb
+ipykernel 
+jupyterlab
+pandas
+
+numpy
+matplotlib
+#scikit-learn
+#seaborn
+
+#natural language processing
+spacy
+spacytextblob
+requests
