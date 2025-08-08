@@ -28,7 +28,3 @@ Complete the tasks in the Python Notebook in this repository. Make sure to add a
 (Question 11) Number of sentences printed: 1 pt
 (Question 12) Thoughtful answer based on reported polarity scores: 1 pt
 (Question 13) Thoughtful answer based on summaries: 1 pt
-
-### Stretch Goal
-
-For my stretch goal, I'd like to run the polarity score to determine how positive or negative **all 475** of my blogs are, and analyze running averages to see if my writing might reveal any underlying positive or negative periods in my life that wouldn't have otherwise been easily discovered.
